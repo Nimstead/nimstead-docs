@@ -77,6 +77,13 @@
     "product": "assure"
   },
   {
+    "source": "docs/how-to/check-network-devices.md",
+    "slug": "how-to/check-network-devices",
+    "title": "Find and check devices with no agent",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
     "source": "docs/how-to/remote-windows.md",
     "slug": "how-to/remote-windows",
     "title": "Scan Windows without an agent",
