@@ -600,5 +600,54 @@
     "title": "Authentication and account API",
     "group": "Reference",
     "product": "assure"
+  },
+  {
+    "source": "docs/how-to/scan-containers.md",
+    "slug": "how-to/scan-containers",
+    "title": "Find vulnerabilities in running containers",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
+    "source": "docs/how-to/track-progress.md",
+    "slug": "how-to/track-progress",
+    "title": "Track progress and who is behind",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
+    "source": "docs/how-to/send-tickets.md",
+    "slug": "how-to/send-tickets",
+    "title": "Send fixes to Jira or GitLab",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
+    "source": "docs/how-to/see-what-runs.md",
+    "slug": "how-to/see-what-runs",
+    "title": "See what's running, and finish fixes that need a restart",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
+    "source": "docs/reference/progress.md",
+    "slug": "reference/progress",
+    "title": "Progress reference",
+    "group": "Reference",
+    "product": "assure"
+  },
+  {
+    "source": "docs/reference/tickets.md",
+    "slug": "reference/tickets",
+    "title": "Ticket reference",
+    "group": "Reference",
+    "product": "assure"
+  },
+  {
+    "source": "docs/explanation/runtime-ranking.md",
+    "slug": "explanation/runtime-ranking",
+    "title": "How runtime changes a finding's rank",
+    "group": "Explanation",
+    "product": "assure"
   }
 ]
