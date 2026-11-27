@@ -630,6 +630,13 @@
     "product": "assure"
   },
   {
+    "source": "docs/how-to/see-attack-paths.md",
+    "slug": "how-to/see-attack-paths",
+    "title": "See how an attacker would move between your Linux machines, and what to cut first",
+    "group": "How-to guides",
+    "product": "assure"
+  },
+  {
     "source": "docs/reference/progress.md",
     "slug": "reference/progress",
     "title": "Progress reference",
@@ -647,6 +654,13 @@
     "source": "docs/explanation/runtime-ranking.md",
     "slug": "explanation/runtime-ranking",
     "title": "How runtime changes a finding's rank",
+    "group": "Explanation",
+    "product": "assure"
+  },
+  {
+    "source": "docs/explanation/attack-paths.md",
+    "slug": "explanation/attack-paths",
+    "title": "Why Nimstead's key links are exact, and what they leave out",
     "group": "Explanation",
     "product": "assure"
   }
